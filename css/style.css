@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.body-style {
+  background-color: #ffbd80;
+}
+
+.page-style {
+  background-color: #ffd7b3 !important;
+}
+
+.title-font {
+  font-family: Lobster !important;
+}
+
+.subtitle {
+  font-family: Lobster !important;
+  margin-top: 36px;
+}
+
+.main-image-border {
+    border-color: #000;
+    border-width: 2;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.standard-paragraph {
+  text-align: justify;
+}
+
+.footer-style {
+background-color: #ffbd80 !important;
+  margin-top: 0px;
+  padding: 15px 20px 10px 20px;
+}
+
+.borderless td, .borderless th {
+    border: none !important;
+}
